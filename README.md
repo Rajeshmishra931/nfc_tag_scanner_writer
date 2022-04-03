@@ -1,3 +1,6 @@
+# USED WEB NFC API (NDEF)
+This app can scan and write the data into a NFC (Near Field Communication) tag
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
